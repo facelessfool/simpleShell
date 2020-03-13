@@ -1,2 +1,7 @@
-# simpleShell
-A simple shell in c that supports pipe CS550 assignment
+
+
+This shell works 
+1)without redirection
+2)supports redirection
+3)supports single pipe
+
